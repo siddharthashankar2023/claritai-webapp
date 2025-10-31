@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# ClaritAI Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ClaritAI Web is an AI-powered text simplification app for students and educators.
+**Live Demo:** [https://claritai-webapp.vercel.app](https://claritai-webapp.vercel.app)
+It rewrites complex text into simple, understandable versions with multi-language support and adjustable difficulty.
+Perfect for learners of all levels and teachers who want to make content more accessible.
 
-## Available Scripts
+## ✨ Features
+- Enter any text and instantly get a simplified version.
+- Supports multiple languages.
+- Set difficulty level for custom simplifications.
+- Fast, intuitive, and easy to use—it works in your browser!
 
-In the project directory, you can run:
+## 🚀 Getting Started
 
-### `npm start`
+### 1. Clone the repository:
+git clone https://github.com/siddharthashankar2023/claritai-webapp.git
+cd claritai-webapp
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+text
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2. Install dependencies:
+npm install
 
-### `npm test`
+text
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. Start the development server:
+npm start
 
-### `npm run build`
+text
+Your app will open at [http://localhost:3000](http://localhost:3000/).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Requirements
+- Node.js (v16 or newer recommended)
+- npm (comes with Node.js)
+- No special environment variables or API keys required for the basic version!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 👤 Author
+Built by Siddhartha shankar.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📝 License
+This project is licensed under the MIT License.
+See the LICENSE file for more details.
 
-### `npm run eject`
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change or add.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📹 Demo
+*(Add your demo video link here—YouTube/Google Drive etc., after you create it!)*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 💡 Extra
+- Simple UI, great for students, teachers, non-native speakers.
+- Designed to be extendable—new features can be added easily.
